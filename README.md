@@ -1,4 +1,3 @@
----
 
 # 🐧 Bash Scripting Practice Project
 
