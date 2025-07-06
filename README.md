@@ -11,6 +11,31 @@
 ├── 10_condition.sh
 ├── 11_case.sh
 ├── 12_logical.sh
+├── 13_calculator.sh
+├── 14_ternary_ops.sh
+├── 15_for-loop.sh
+├── 16_for_with_file.sh
+├── 17_for_witharray.sh
+├── 18_while.sh
+├── 19_untilloop.sh
+├── 20_infinite_while.sh
+├── 21_forinfinite.sh
+├── 22_whileread.sh
+├── 23_csvreadusingwhile.sh
+├── 24_functiondemo.sh
+├── 25_function_with_arg.sh
+├── 26_args.sh
+├── 27_shift_args.sh
+├── 28_break.sh
+├── 29_continue.sh
+├── 30_connectivity_check.sh
+├── 31_file_exist_check.sh
+├── 31_file_exist_check.sh1
+├── 31_file_exits_check.sh
+├── 32_random_num.sh
+├── 33_root_user_check.sh
+├── name.csv
+├── name.txt
 └── README.md
 
-1 directory, 13 files
+1 directory, 38 files
