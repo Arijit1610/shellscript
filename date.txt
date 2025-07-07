@@ -1,0 +1,1 @@
+bash: date1: command not found
